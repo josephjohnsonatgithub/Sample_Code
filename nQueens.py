@@ -1,4 +1,4 @@
-# Eight Queens problem
+# n-queens problem
 
 from copy import deepcopy
 from time import sleep
