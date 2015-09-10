@@ -1,6 +1,7 @@
 // A simple linear program for optimizing profit gained
 // Seeks to find optimal production of various metals within certain constraints
 // Values and constraints are hard-coded into the program
+// Thanks to CS department at BYU for the problem instance. (part of algorithm design course)
 
 using System; 
 using System.Collections.Generic; 
