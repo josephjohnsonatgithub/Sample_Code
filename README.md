@@ -1,7 +1,10 @@
 # Sample_Code
 ----------- PhD Project ------------------
-`ParseICEWS.ipynb` runs GT-CHES on ICEWS data
+
+`ParseICEWS.ipynb` runs GT-CHES on ICEWS data.
+
 Most of the included python files support this project.
+
 Data not included due to size limitations.
 
 ----------- 2 small projects -----------------------
