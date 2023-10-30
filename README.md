@@ -7,3 +7,5 @@ The user will be prompted as to which inputs to make.
 
 LinearProgram.cs is a simple linear program that optimizes profit for mineral production within certain parameters.
 
+Other files are for Early Warning Systems classification
+
