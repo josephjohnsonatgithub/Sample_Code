@@ -1,4 +1,5 @@
 '''
+CODE WAS TAKEN FROM THE PAPER BELOW AND SLIGHTLY MODIFIED)
 Code for the paper:
 Edge Weight Prediction in Weighted Signed Networks. 
 Conference: ICDM 2016
